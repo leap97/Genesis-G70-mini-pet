@@ -1,0 +1,19 @@
+# Runtime settings
+/source/boost.txt
+/source/window.txt
+/source/boost.txt.*.tmp
+
+# Local test/build output
+/source/qa/
+*.pdb
+*.tmp
+
+# Local working copies and archives
+/work/
+/outputs/
+*.zip
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
